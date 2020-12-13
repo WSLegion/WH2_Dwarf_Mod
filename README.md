@@ -1,3 +1,7 @@
+# New Contact Effect
+## Shell Shocked
+   * Reduces Melee Attack/Defence and Weapon Strength of enemies affected
+
 # Thorgrim
 Gyrocopter doomstack, I am ashamed (not really) that I can't even properly micro a dwarven doom stack, can you imagine that?
 ## Stage 1 (level 10)
@@ -28,14 +32,14 @@ Gyrocopter doomstack, I am ashamed (not really) that I can't even properly micro
       * Enable Fire while moving
    * Gyrocopter(Normal Variant):
       * Improved Missile Weapon (Better explosion damage/radius and more)
-      * Enable "Hell Hive Rocket Pod" (Fires 25 rockets at the target enemy, poor accuracy but decent explosion damage, 3 charges per battle)
+      * Enable "Hell Hive Rocket Pod" (Fires 25 rockets at the target enemy, poor accuracy but decent explosion damage, inflict "Shell Shocked", 3 charges per battle)
       * Enable "Death from Above" (All enemies in 60 range have less Melee Attack/Defence/Moral)
    * Gyrocopter(Brimstone Gun):
       * Improved Missile Weapon (Higher AP damage, range and more)
       * Enable "Anti Giant Missile" (Fire 1 single rocket that deals insane damage upon hitting, very low explosion damage, 4 charges per battle)
    * Gyrobomber:
       * Enable Stalk (Optical camouflage allows your bomber to reach their destination and drop the bomb without too many resistance)
-      * Enable "Morgrim´s Pride" (Drop a big bomb and deletes enemies within 30 range, 1 charge per battle)
+      * Enable "Morgrim´s Pride" (Drop a big bomb and deletes enemies within 30 range, Inflict "Shell Shocked", 1 charge per battle)
 # Belegar
 Crossbow variants: Bugman Ranger and normal Ranger<br>
 Focus on staying out of enemy sight and snipe down high value targets with your snipe mode<br>
