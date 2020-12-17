@@ -1,3 +1,7 @@
+# New Contact Effect
+## Shell Shocked
+   * Reduces Melee Attack/Defence and Weapon Strength of enemies affected
+
 # Thorgrim
 Gyrocopter doomstack, I am ashamed (not really) that I can't even properly micro a dwarven doom stack, can you imagine that?
 ## Stage 1 (level 10)
@@ -28,14 +32,14 @@ Gyrocopter doomstack, I am ashamed (not really) that I can't even properly micro
       * Enable Fire while moving
    * Gyrocopter(Normal Variant):
       * Improved Missile Weapon (Better explosion damage/radius and more)
-      * Enable "Hell Hive Rocket Pod" (Fires 25 rockets at the target enemy, poor accuracy but decent explosion damage, 3 charges per battle)
+      * Enable "Hell Hive Rocket Pod" (Fires 25 rockets at the target enemy, poor accuracy but decent explosion damage, inflict "Shell Shocked", 3 charges per battle)
       * Enable "Death from Above" (All enemies in 60 range have less Melee Attack/Defence/Moral)
    * Gyrocopter(Brimstone Gun):
       * Improved Missile Weapon (Higher AP damage, range and more)
       * Enable "Anti Giant Missile" (Fire 1 single rocket that deals insane damage upon hitting, very low explosion damage, 4 charges per battle)
    * Gyrobomber:
       * Enable Stalk (Optical camouflage allows your bomber to reach their destination and drop the bomb without too many resistance)
-      * Enable "Morgrim´s Pride" (Drop a big bomb and deletes enemies within 30 range, 1 charge per battle)
+      * Enable "Morgrim´s Pride" (Drop a big bomb and deletes enemies within 30 range, Inflict "Shell Shocked", 1 charge per battle)
 # Belegar
 Crossbow variants: Bugman Ranger and normal Ranger<br>
 Focus on staying out of enemy sight and snipe down high value targets with your snipe mode<br>
@@ -90,6 +94,8 @@ Miners still don't have amazing stats, but "Entrench" will make your melee front
    * Miners(Melee Variant):
       * Enable "Entrench" (Units cannot move if this ability is active. The first 10 second will not grant any bonus since they are still working on the Trench, afterwards, gain extra Melee Defence, Charge Resistance, Ward Save and Missile Resistance, you can activate this ability during deplyment phase to start this 10s countdown before the battle starts!) <br>
       (A total of 90% Missile Resistance is given after the effect kicks in, no thank you I don't care about your ratling gun. The overall buff is pretty ridiculous but this army can take heavy casualty if you leave enemy Artillery/Flame Thrower alive for too long or get ambushed)
+   * Bolt Throwers:
+      * Replace the normal fire mode with a new missile weapon, fires a volley of bolts (similar to the elven bolt throwers), and every bolt will cause a small explosion upon impact
 # Ungrim
 Slayer spam, not a lot changes here. (Why does CA think nerfing journey's End is a good idea?)
 ## Stage 1 (level 10)
