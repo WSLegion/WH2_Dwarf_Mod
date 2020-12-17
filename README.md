@@ -4,6 +4,7 @@
 
 # Thorgrim
 Gyrocopter doomstack, I am ashamed (not really) that I can't even properly micro a dwarven doom stack, can you imagine that?
+Important: After acquiring the first level of his Trait, Thorgrim will have access to immediate siege battle even without any siege attacker in his army. This means you do not have to bring an artillery piece which is vulnerable and cannot be effectively protected by your gyros.
 ## Stage 1 (level 10)
    * Hammerers:
       * +5% Physical Resistance
