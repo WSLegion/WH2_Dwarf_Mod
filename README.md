@@ -97,6 +97,7 @@ Miners still don't have amazing stats, but "Entrench" will make your melee front
       (A total of 90% Missile Resistance is given after the effect kicks in, no thank you I don't care about your ratling gun. The overall buff is pretty ridiculous but this army can take heavy casualty if you leave enemy Artillery/Flame Thrower alive for too long or get ambushed)
    * Bolt Throwers:
       * Replace the normal fire mode with a new missile weapon, fires a volley of bolts (similar to the elven bolt throwers), and every bolt will cause a small explosion upon impact
+  * Unit Capacity +1 for Defenders of Karay Ankor and Great Axes of Grombrindal (2 special longbeard units that have higher base stat and buff friendly units nearby)
 # Ungrim
 Slayer spam, not a lot changes here. (Why does CA think nerfing journey's End is a good idea?)
 ## Stage 1 (level 10)
